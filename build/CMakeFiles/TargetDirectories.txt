@@ -1,0 +1,3 @@
+/home/aslab/Desktop/SurfelViewer/build/CMakeFiles/edit_cache.dir
+/home/aslab/Desktop/SurfelViewer/build/CMakeFiles/rebuild_cache.dir
+/home/aslab/Desktop/SurfelViewer/build/CMakeFiles/SurfelViewer.dir
